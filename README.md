@@ -1,8 +1,13 @@
 # internship
 To run the algorithm
+
+
 first install all the packages by running the 'install modules' jupyter notebook
-secondly run the 'trade_algo' notebook to see the algorithms implementaion
 
 
-to cantact me email:svr1052000@gmail.com
+secondly run the 'trade_algo' notebook to see the algorithm implementaion
+
+
+
+to contact me email:svr1052000@gmail.com
   phn: 7620518519
